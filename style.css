@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.needle-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+canvas {
+    border: 1px solid #ddd;
+    background-image: url("Needle template.png");
+    background-size: cover;
+}
