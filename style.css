@@ -11,6 +11,6 @@ body {
 
 canvas {
     border: 1px solid #ddd;
-    background-image: url("Needle template.png");
+    background-image: url("baseline.png");
     background-size: cover;
 }
